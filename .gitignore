@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+performance_testing/__pycache__/
+.pytest_cache/
+.playwright-screenshots/
+report.html
