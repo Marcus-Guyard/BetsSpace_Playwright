@@ -1,7 +1,7 @@
 [
   {
     "name": "Timestamp",
-    "value": 1752140.485783
+    "value": 1755416.893902
   },
   {
     "name": "AudioHandlers",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Documents",
-    "value": 9
+    "value": 10
   },
   {
     "name": "Frames",
@@ -21,11 +21,11 @@
   },
   {
     "name": "JSEventListeners",
-    "value": 384
+    "value": 401
   },
   {
     "name": "LayoutObjects",
-    "value": 804
+    "value": 697
   },
   {
     "name": "MediaKeySessions",
@@ -37,15 +37,15 @@
   },
   {
     "name": "Nodes",
-    "value": 8929
+    "value": 13296
   },
   {
     "name": "Resources",
-    "value": 145
+    "value": 173
   },
   {
     "name": "ContextLifecycleStateObservers",
-    "value": 35
+    "value": 43
   },
   {
     "name": "V8PerContextDatas",
@@ -65,7 +65,7 @@
   },
   {
     "name": "ResourceFetchers",
-    "value": 9
+    "value": 10
   },
   {
     "name": "AdSubframes",
@@ -73,63 +73,63 @@
   },
   {
     "name": "DetachedScriptStates",
-    "value": 6
+    "value": 7
   },
   {
     "name": "ArrayBufferContents",
-    "value": 9
+    "value": 12
   },
   {
     "name": "LayoutCount",
-    "value": 67
+    "value": 74
   },
   {
     "name": "RecalcStyleCount",
-    "value": 139
+    "value": 136
   },
   {
     "name": "LayoutDuration",
-    "value": 0.514039
+    "value": 0.602087
   },
   {
     "name": "RecalcStyleDuration",
-    "value": 0.410704
+    "value": 0.480414
   },
   {
     "name": "DevToolsCommandDuration",
-    "value": 0.092252
+    "value": 0.104438
   },
   {
     "name": "ScriptDuration",
-    "value": 3.455666
+    "value": 3.606676
   },
   {
     "name": "V8CompileDuration",
-    "value": 0.06433
+    "value": 0.054842
   },
   {
     "name": "TaskDuration",
-    "value": 6.371079
+    "value": 6.843741
   },
   {
     "name": "TaskOtherDuration",
-    "value": 1.834088
+    "value": 1.995284
   },
   {
     "name": "ThreadTime",
-    "value": 4.769238
+    "value": 4.73894
   },
   {
     "name": "ProcessTime",
-    "value": 5.0625
+    "value": 6.625
   },
   {
     "name": "JSHeapUsedSize",
-    "value": 30460024
+    "value": 34484600
   },
   {
     "name": "JSHeapTotalSize",
-    "value": 49643520
+    "value": 52789248
   },
   {
     "name": "FirstMeaningfulPaint",
@@ -137,10 +137,10 @@
   },
   {
     "name": "DomContentLoaded",
-    "value": 1752139.829876
+    "value": 1755416.311033
   },
   {
     "name": "NavigationStart",
-    "value": 1752139.169369
+    "value": 1755415.534384
   }
 ]
