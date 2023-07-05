@@ -1,4 +1,4 @@
-from test_betsspace_classes import BetsspaceHeader
+from tests.test_betsspace_classes import BetsspaceHeader
 
 import json
 
