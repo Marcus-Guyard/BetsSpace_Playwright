@@ -28,4 +28,4 @@ jobs:
         run: python -m playwright install --with-deps
 
       - name: Run your tests
-        run: pytest --numprocesses auto
+        run: pytest --numprocesses 20
